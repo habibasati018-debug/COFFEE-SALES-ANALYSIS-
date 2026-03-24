@@ -1,4 +1,4 @@
-### 💰1. Revenue Leadership vs Popularity Gap
+## 💰1. Revenue Leadership vs Popularity Gap
  
 Latte and Americano with Milk generate the highest revenue
 However, most ordered items slightly differ in ranking
@@ -20,7 +20,7 @@ Time-intensive drinks contribute less to total orders
 Promote quick-service items during peak hours
 Optimize preparation workflow for complex drinks
 
-📈 3. Revenue & Sales Trend Over Time
+## 📈 3. Revenue & Sales Trend Over Time
 
 Sales show clear fluctuations with upward spikes over time
 Periodic dips indicate non-uniform demand cycles
@@ -31,7 +31,7 @@ Periodic dips indicate non-uniform demand cycles
 Run promotions during low-demand periods
 Align inventory with peak demand phases
 
-📊 4. Revenue Distribution (Donut Chart Insight)
+## 📊 4. Revenue Distribution (Donut Chart Insight)
 
 A few coffee types dominate revenue share
 Remaining products contribute marginally
@@ -42,7 +42,7 @@ Remaining products contribute marginally
 Focus on best-selling categories
 Reposition or remove low-performing items
 
-📅 5. Weekday vs Weekend Sales Behavior
+## 📅 5. Weekday vs Weekend Sales Behavior
 
 Sales volume differs between weekdays and weekends
 Certain days show significantly higher average sales
@@ -53,7 +53,7 @@ Certain days show significantly higher average sales
 Offer weekday discounts to boost traffic
 Introduce premium offers on weekends
 
-📆 6. Average Sales per Day of Week
+## 📆 6. Average Sales per Day of Week
 
 Specific days consistently outperform others
 
@@ -63,7 +63,7 @@ Specific days consistently outperform others
 Schedule staffing and inventory based on high-demand days
 Launch targeted campaigns for slow days
 
-💳 7. Payment Mode Preference
+## 💳 7. Payment Mode Preference
 
 One payment method (likely digital/card) dominates
 
@@ -73,7 +73,7 @@ One payment method (likely digital/card) dominates
 Optimize digital payment experience
 Offer cashback or digital incentives
 
-📦 8. Order Volume vs Revenue Efficiency
+## 📦 8. Order Volume vs Revenue Efficiency
 
 Total Orders: 1,044
 Total Revenue: $37.51K
@@ -84,7 +84,7 @@ Total Revenue: $37.51K
 Introduce combo deals / upselling
 Bundle products to increase ticket size
 
-📉 9. Underperforming Products
+## 📉 9. Underperforming Products
 
 Espresso, Cocoa, and Cortado show lower revenue & orders
 
@@ -95,7 +95,7 @@ Improve marketing or placement
 Offer discounts or bundles
 Consider removing if consistently underperforming
 
-🔮 10. Strategic Growth Opportunities
+## 🔮 10. Strategic Growth Opportunities
 
 Strong patterns suggest potential for advanced analytics
 
