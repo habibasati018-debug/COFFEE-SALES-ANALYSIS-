@@ -1,4 +1,4 @@
-### 1. Revenue Leadership vs Popularity Gap
+### 💰1. Revenue Leadership vs Popularity Gap
  
 Latte and Americano with Milk generate the highest revenue
 However, most ordered items slightly differ in ranking
@@ -10,7 +10,7 @@ However, most ordered items slightly differ in ranking
 Maintain premium pricing on top revenue items
 Promote high-order but lower-revenue items to increase margins
 
-⏱ 2. Sales vs Preparation Duration Trade-off
+## ⏱ 2. Sales vs Preparation Duration Trade-off
 Faster-to-prepare items show higher sales volume
 Time-intensive drinks contribute less to total orders
 
