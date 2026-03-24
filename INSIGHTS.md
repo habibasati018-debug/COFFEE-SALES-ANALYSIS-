@@ -1,4 +1,4 @@
-**💰 1. Revenue Leadership vs Popularity Gap**
+##**💰 1. Revenue Leadership vs Popularity Gap**
  
 Latte and Americano with Milk generate the highest revenue
 However, most ordered items slightly differ in ranking
