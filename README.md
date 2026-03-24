@@ -31,7 +31,7 @@ This project presents a comprehensive analysis of coffee sales data to uncover k
 
 ## 📊 Dashboard
 
-👉 "View Interactive Tableau Dashboard" (PASTE-YOUR-TABLEAU-LINK-HERE)
+👉 "View Interactive Tableau Dashboard" 
 
 https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
