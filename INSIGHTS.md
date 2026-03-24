@@ -1,7 +1,9 @@
 💰 1. Revenue Leadership vs Popularity Gap
 Latte and Americano with Milk generate the highest revenue
 However, most ordered items slightly differ in ranking
+
 👉 Insight: High revenue ≠ highest order volume → indicates pricing impact
+
 💡 Business Action:
 Maintain premium pricing on top revenue items
 Promote high-order but lower-revenue items to increase margins
