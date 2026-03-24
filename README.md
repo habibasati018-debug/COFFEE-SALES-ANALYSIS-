@@ -1,13 +1,13 @@
 # COFFEE-SALES-ANALYSIS-
 ☕ Coffee Sales Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents a comprehensive analysis of coffee sales data to uncover key business insights, trends, and customer behavior patterns. The analysis combines Python-based data exploration with an interactive Tableau dashboard for visualization.
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Analyze sales performance across different coffee products
 - Identify top-performing categories and revenue drivers
@@ -17,7 +17,7 @@ This project presents a comprehensive analysis of coffee sales data to uncover k
 
 ---
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 - Python: Data cleaning & analysis
   - Pandas
@@ -29,7 +29,7 @@ This project presents a comprehensive analysis of coffee sales data to uncover k
 
 ---
 
-📊 Dashboard
+## 📊 Dashboard
 
 👉 "View Interactive Tableau Dashboard" (PASTE-YOUR-TABLEAU-LINK-HERE)
 
@@ -37,7 +37,7 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 
 ---
 
-📂 Dataset
+## 📂 Dataset
 
 - File: "data/COFFEE_STOCK.csv"
 - Description: Contains transactional coffee sales data including product type, quantity, sales, and time attributes
@@ -55,7 +55,7 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 
 ---
 
-📌 Key Features
+## 📌 Key Features
 
 - End-to-end data analysis workflow
 - Clean and well-structured dataset
@@ -65,7 +65,7 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 
 ---
 
-🚀 Business Recommendations
+## 🚀 Business Recommendations
 
 - Focus marketing efforts on top-performing coffee categories
 - Optimize inventory for high-demand products
@@ -74,7 +74,7 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 
 ---
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 - Add predictive analysis (sales forecasting)
 - Integrate customer segmentation
@@ -83,14 +83,14 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Habiba Sati
 Aspiring Data Analyst
 
 ---
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 - Dataset inspiration from coffee sales scenarios
 - Tools: Python ecosystem & Tableau Public
