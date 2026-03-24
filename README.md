@@ -43,7 +43,14 @@ https://public.tableau.com/views/coffeedeshbord/Dashboard1?:language=en-US&:sid=
 - Description: Contains transactional coffee sales data including product type, quantity, sales, and time attributes
 
 ---
+## 🔍 Advanced Insights
 
+👉 [View Detailed Insights](INSIGHTS.md)
+
+### Key Highlights:
+- Top coffee products generate majority of revenue  
+- Sales vary across time and weekdays  
+- Faster preparation items drive higher sales
 
 
 ---
